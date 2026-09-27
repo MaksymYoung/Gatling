@@ -1,0 +1,1 @@
+ic_formbuilder_redirect=#{order_redirect}&cart_content=#{cart_content}&#{products_price}&total_net=#{total_net}&trans_id=#{trans_id}&shipping=order&cart_type=order&cart_name=Max Tester&cart_address=Test Street 1&cart_postal=01001&cart_city=Kyiv&cart_country=#{country_code}&cart_state=#{state_code}&cart_phone=123456789&cart_email=max.tester@example.com&cart_submit=Place Order

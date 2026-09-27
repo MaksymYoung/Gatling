@@ -1,0 +1,7 @@
+/target/generated-test-sources
+/target/maven-status
+/target/test-classes
+/.mvn/wrapper/*.jar
+mvnw
+.idea/
+gatlingchromehelper/
